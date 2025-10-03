@@ -1,0 +1,96 @@
+{
+    "info": {
+        "id": "841660",
+        "name": "Domino's Pizza",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/5/652ac083-baa7-481f-8945-5a6ad7d31765_841660.JPG",
+        "locality": "UDHANA DARWAZA",
+        "areaName": "SHHLOK BUSINESS CENTRE",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+            "Pizzas",
+            "Italian",
+            "Pastas",
+            "Desserts"
+        ],
+        "avgRating": 4.4,
+        "veg": true,
+        "parentId": "2456",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "643",
+        "sla": {
+            "deliveryTime": 25,
+            "lastMileTravel": 2.7,
+            "serviceability": "SERVICEABLE",
+            "slaString": "20-25 mins",
+            "lastMileTravelString": "2.7 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2025-07-09 23:59:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "Rxawards/_CATEGORY-Pizza.png",
+                    "description": "Delivery!"
+                },
+                {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "pureveg"
+                }
+            ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "Delivery!",
+                                "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                            }
+                        },
+                        {
+                            "attributes": {
+                                "description": "pureveg",
+                                "imageId": "v1695133679/badges/Pure_Veg111.png"
+                            }
+                        }
+                    ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "ITEMS",
+            "subHeader": "AT ₹79"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "--"
+            }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+        "context": "seo-data-872c36a8-3cb0-4b90-b0d3-ec7972aff24b"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/city/surat/dominos-pizza-udhana-darwaza-shhlok-business-centre-rest841660",
+        "type": "WEBLINK"
+    }
+}
