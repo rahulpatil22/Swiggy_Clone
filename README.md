@@ -1,10 +1,12 @@
-# Namaste React 
+# Swiggy_Clone
 
 
-# Inception ->
+
+
+
 CDN , React Element 
 
-# Ignite ->
+
 
 webpack
 Parcel ->
@@ -27,49 +29,47 @@ Tree Shaking - remove unused for you
 Different Dev and Prod bundles
 
 
-# Foundation
+
 babel , jsx , React Component , React Composition 
  static page
 
-#  show me your code
- =>dynamic page using - props , key ,json
+ dynamic page using - props , key ,json
 
-# Hooks
+
 import export ,hook-useState
 react algorithm - recounciliation , diff algorithm ,react fiber , increamental rendering , 
 dynamic page using- fetch- mockdata(JSON)
 functionality - filter with top rated restaurants
 
-# Exploring
+
 dynamic page using- fetch- SWIGGY LIVE API-JSON
 monolith/microservices
 useEffect,useState,ShimmerUI
 conditional rendering , optional ,chaining,spinning loader ,component rendering
 functionality - static login/logout , search 
 
-# Path
+
 useState,useEffect,routing , dynamic routing, useParam ,outlet component , -> explore GraphQl
 ClientSide Routing and Server Side Routing
 
-# class
 functional vs class component
 React Component-lifecycle
 
-# Performace Optimization
+
 Custome Hook , Lazy Loading, Suspense
 functionality - status online , offline
 
-# style
+
 tailwind css
 explore-styled component , material UI , ant design ,dark mode
 
-# Data Management 01
+
 Higher Order Component ,Higher OrderFunction/Pure function,state lifting up,
 controlled and uncontrolled component,prop drilling , useContext(Context API)
 functionality- add discount , lable to card,detail menu cards using accordian(hide and expandeble)
                LogIn User name across all component , input box for change username live 
 
-# Data Management 02
+
 - Redux Tookit-RTK
 - install liabraries - @reduxjs/toolkit and react-redux
 - Build our store
@@ -85,7 +85,7 @@ functionality - add item from ItemList in cart
               - clear the cart
 
 
-# Types of Testing(developer)
+
 - Unit Testing
  - install React Testing liabrary
   - install jest
