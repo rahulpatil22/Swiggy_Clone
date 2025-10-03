@@ -11,6 +11,12 @@
   "engines": {
   "node": "22.x"
 },
+"targets": {
+  "default": {
+    "optimize": false
+  }
+}
+,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rahulpatil22/Namaste-React.git"
